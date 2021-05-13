@@ -1,0 +1,8 @@
+Script started on 2021-04-24 19:03:27-04:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ exit./a.outcc *.c -o a.out
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ cc *.c -o a.outexit[K./a.out
+/home/soni52/Desktop/ASP/Final Project$exit
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ exit
+exit
+
+Script done on 2021-04-24 19:03:41-04:00 [COMMAND_EXIT_CODE="0"]

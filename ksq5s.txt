@@ -1,0 +1,59 @@
+Script started on 2021-04-24 19:15:43-04:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="80" LINES="24"]
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ ./a.OUT[K[K[Kout
+/home/soni52/Desktop/ASP/Final Project$ls -lt /usr/lib | 
+Press Enter key else you will get annoyed 
+more
+total 223596
+drwxr-xr-x   4 root root        4096 Apr 12 10:42 thunderbird
+drwxr-xr-x   8 root root        4096 Apr 12 10:41 R
+drwxr-xr-x   2 root root        4096 Apr 12 10:41 pkgconfig
+drwxr-xr-x   3 root root        4096 Apr 12 10:41 ssl
+drwxr-xr-x   3 root root        4096 Apr 12 10:41 node_modules
+drwxr-xr-x 206 root root      270336 Apr 12 10:41 x86_64-linux-gnu
+drwxr-xr-x  32 root root       69632 Apr 12 10:40 i386-linux-gnu
+drwxr-xr-x   5 root root        4096 Apr 12 10:40 libreoffice
+drwxr-xr-x  32 root root       20480 Apr 12 10:40 python3.7
+drwxr-xr-x   3 root root        4096 Apr 12 10:40 fwupd
+drwxr-xr-x   2 root root        4096 Apr 12 10:40 exim4
+drwxr-xr-x   2 root root        4096 Apr 12 10:38 environment.d
+drwxr-xr-x   2 root root        4096 Apr 12 10:38 sysusers.d
+drwxr-xr-x   2 root root        4096 Apr 12 10:38 tmpfiles.d
+lrwxrwxrwx   1 root root          13 Mar 31 10:34 libR.so -> R/lib/libR.so
+drwxr-xr-x   7 root root        4096 Mar 25 08:19 firefox-esr
+drwxr-xr-x   4 root root        4096 Mar 24 11:48 qgis
+drwxr-xr-x   2 root root        4096 Mar 24 11:24 nuget
+-rw-r--r--   1 root root     1185896 Mar 21 20:56 libqgis_3d.so.3.16.5
+-rw-r--r--   1 root root     4765824 Mar 21 20:56 libqgis_analysis.so.3.16.5
+-rw-r--r--   1 root root    10225840 Mar 21 20:56 libqgis_app.so.3.16.5
+-rw-r--r--   1 root root    27222784 Mar 21 20:56 libqgis_core.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root      669824 Mar 21 20:56 libqgisgrass7.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root    18675840 Mar 21 20:56 libqgis_gui.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root       67664 Mar 21 20:56 libqgis_native.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root       63568 Mar 21 20:56 libqgispython.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root     1013912 Mar 21 20:56 libqgis_server.so.3.16.5
+[7m--More--[27m-rw-r--r--   1 root root         261 Mar 19 19:44 os-release
+[7m--More--[27mlrwxrwxrwx   1 root root          13 Mar 18 04:10 sendmail -> ../sbin/exim4
+[7m--More--[27mdrwxr-xr-x   5 root root        4096 Mar 11 10:26 jvm
+[7m--More--[27mdrwxr-xr-x   3 root root        4096 Mar 10 09:06 grub
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Mar 10 09:06 grub-legacy
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Mar  8 17:45 valgrind
+[7m--More--[27mdrwxr-xr-x   4 root root        4096 Mar  8 17:45 debug
+[7m--More--[27mlrwxrwxrwx   1 root root          43 Mar  8 07:13 liblibreofficekitgtk.so -> lib
+[7m--More--[27mreoffice/program/liblibreofficekitgtk.so
+[7m--More--[27mdrwxr-xr-x   3 root root        4096 Feb 17 09:18 geoclue-2.0
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Feb 17 09:18 file
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Feb 17 09:18 tc
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Jan 27 08:39 sudo
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Jan 27 08:38 mutt
+[7m--More--[27mdrwxr-xr-x   7 root root       12288 Jan 27 08:38 virtualbox
+[7m--More--[27mdrwxr-xr-x   3 root root        4096 Jan 11 11:54 tcltk
+[7m--More--[27mdrwxr-xr-x   4 root root        4096 Jan 11 11:53 cmake
+[7m--More--[27mdrwxr-xr-x   5 root root        4096 Dec 10 09:44 apt
+[7m--More--[27mdrwxr-xr-x   3 root root        4096 Dec  7 08:36 xorg
+[7m--More--[27mdrwxr-xr-x   2 root root        4096 Nov 23 09:53 mupdf
+[7m--More--[27m[K/home/soni52/Desktop/ASP/Final Project$
+/home/soni52/Desktop/ASP/Final Project$exit
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ exit
+exit
+
+Script done on 2021-04-24 19:16:14-04:00 [COMMAND_EXIT_CODE="0"]

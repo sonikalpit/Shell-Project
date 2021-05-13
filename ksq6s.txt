@@ -1,0 +1,57 @@
+Script started on 2021-04-24 19:16:51-04:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="80" LINES="24"]
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ ./a.out
+/home/soni52/Desktop/ASP/Final Project$ks -lt        ls -lt > outpu
+Press Enter key else you will get annoyed 
+t, .txt
+/home/soni52/Desktop/ASP/Final Project$ls
+a.out		  ksq1t.log  ksq3t.log	ksq5t.log	ksuserin.c
+ksmain_smallsh.c  ksq2s.txt  ksq4s.txt	ksq6s.txt	output.txt
+ksproc_line.c	  ksq2t.log  ksq4t.log	ksq6t.log	smallsh.h
+ksq1s.txt	  ksq3s.txt  ksq5s.txt	ksruncommand.c
+/home/soni52/Desktop/ASP/Final Project$ls -lt
+total 61
+-rwxr-xr-x 1 soni52 temp  1049 Apr 24 19:17 output.txt
+-rw-r--r-- 1 soni52 temp     0 Apr 24 19:16 ksq6t.log
+-rw-r--r-- 1 soni52 temp     0 Apr 24 19:16 ksq6s.txt
+-rw-r--r-- 1 soni52 temp  4092 Apr 24 19:16 ksq5s.txt
+-rw-r--r-- 1 soni52 temp  1362 Apr 24 19:16 ksq5t.log
+-rw-r--r-- 1 soni52 temp   828 Apr 24 19:15 ksq4s.txt
+-rw-r--r-- 1 soni52 temp   978 Apr 24 19:15 ksq4t.log
+-rwxr-xr-x 1 soni52 temp 23288 Apr 24 19:14 a.out
+-rw-r--r-- 1 soni52 temp   675 Apr 24 19:03 ksq3s.txt
+-rw-r--r-- 1 soni52 temp   265 Apr 24 19:03 ksq3t.log
+-rw-r--r-- 1 soni52 temp   950 Apr 24 19:02 ksq2s.txt
+-rw-r--r-- 1 soni52 temp  1099 Apr 24 19:02 ksq2t.log
+-rw-r--r-- 1 soni52 temp   775 Apr 24 19:01 ksq1s.txt
+-rw-r--r-- 1 soni52 temp   826 Apr 24 19:01 ksq1t.log
+-rw-r--r-- 1 soni52 temp  1840 Apr 24 18:57 ksuserin.c
+-rw-r--r-- 1 soni52 temp   699 Apr 24 18:42 ksproc_line.c
+-rw-r--r-- 1 soni52 temp   269 Apr 24 18:39 ksmain_smallsh.c
+-rw-r--r-- 1 soni52 temp   319 Apr 24 18:39 smallsh.h
+-rw-r--r-- 1 soni52 temp  7516 Apr 24 18:38 ksruncommand.c
+/home/soni52/Desktop/ASP/Final Project$a cat output.txt
+total 61
+-rwxr-xr-x 1 soni52 temp     0 Apr 24 19:17 output.txt
+-rw-r--r-- 1 soni52 temp     0 Apr 24 19:16 ksq6t.log
+-rw-r--r-- 1 soni52 temp     0 Apr 24 19:16 ksq6s.txt
+-rw-r--r-- 1 soni52 temp  4092 Apr 24 19:16 ksq5s.txt
+-rw-r--r-- 1 soni52 temp  1362 Apr 24 19:16 ksq5t.log
+-rw-r--r-- 1 soni52 temp   828 Apr 24 19:15 ksq4s.txt
+-rw-r--r-- 1 soni52 temp   978 Apr 24 19:15 ksq4t.log
+-rwxr-xr-x 1 soni52 temp 23288 Apr 24 19:14 a.out
+-rw-r--r-- 1 soni52 temp   675 Apr 24 19:03 ksq3s.txt
+-rw-r--r-- 1 soni52 temp   265 Apr 24 19:03 ksq3t.log
+-rw-r--r-- 1 soni52 temp   950 Apr 24 19:02 ksq2s.txt
+-rw-r--r-- 1 soni52 temp  1099 Apr 24 19:02 ksq2t.log
+-rw-r--r-- 1 soni52 temp   775 Apr 24 19:01 ksq1s.txt
+-rw-r--r-- 1 soni52 temp   826 Apr 24 19:01 ksq1t.log
+-rw-r--r-- 1 soni52 temp  1840 Apr 24 18:57 ksuserin.c
+-rw-r--r-- 1 soni52 temp   699 Apr 24 18:42 ksproc_line.c
+-rw-r--r-- 1 soni52 temp   269 Apr 24 18:39 ksmain_smallsh.c
+-rw-r--r-- 1 soni52 temp   319 Apr 24 18:39 smallsh.h
+-rw-r--r-- 1 soni52 temp  7516 Apr 24 18:38 ksruncommand.c
+/home/soni52/Desktop/ASP/Final Project$exit
+]0;soni52@charlie: ~/Desktop/ASP/Final Project[01;32msoni52@charlie[00m:[01;34m~/Desktop/ASP/Final Project[00m$ exut[K[Kit
+exit
+
+Script done on 2021-04-24 19:17:29-04:00 [COMMAND_EXIT_CODE="0"]
